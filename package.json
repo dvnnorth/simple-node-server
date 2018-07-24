@@ -1,0 +1,24 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "This is just some simple server-side Node.js to create simple web servers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvnnorth/simple-node-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvnnorth/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/dvnnorth/simple-node-server#readme",
+  "dependencies": {
+    "stringify-object": "^3.2.2"
+  }
+}
