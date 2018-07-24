@@ -1,5 +1,4 @@
 const HTTP = require(`http`);
-const strObj = require(`stringify-object`);
 
 const PORT = 8080;
 
